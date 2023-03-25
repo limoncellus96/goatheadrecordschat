@@ -3,7 +3,7 @@ import gradio as gr
 import requests
 from bs4 import BeautifulSoup
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 # Scrape artist names from website
 url = "https://www.goatheadrecords.com/"
